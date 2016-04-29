@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  breed_id: 
+  name: MyString
+  gender: MyString
+  dob: 2016-04-23
+  body: MyText
+
+two:
+  user_id: 
+  breed_id: 
+  name: MyString
+  gender: MyString
+  dob: 2016-04-23
+  body: MyText

@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  campany_id: 
+  referer: MyString
+  data: MyText
+
+two:
+  campany_id: 
+  referer: MyString
+  data: MyText
